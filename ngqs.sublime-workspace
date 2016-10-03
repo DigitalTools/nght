@@ -1,0 +1,994 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left: "
+			],
+			[
+				"mar",
+				"margin-bottom: "
+			],
+			[
+				"border",
+				"border-radius: "
+			],
+			[
+				"back",
+				"background: "
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"octa",
+				"octaveBase"
+			],
+			[
+				"coff",
+				"coffee"
+			],
+			[
+				"custom",
+				"custom_elements"
+			],
+			[
+				"field",
+				"field_key"
+			],
+			[
+				"marg",
+				"margin_bottom"
+			],
+			[
+				"lin",
+				"linesArr"
+			],
+			[
+				"json",
+				"jsonSlug"
+			],
+			[
+				"lis",
+				"listingObjs"
+			],
+			[
+				"incl",
+				"includesArr"
+			],
+			[
+				"broad",
+				"broadCategoryId"
+			],
+			[
+				"get",
+				"getTextIfNotEmptyArray"
+			],
+			[
+				"ac",
+				"activityId"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"cate",
+				"category_order"
+			],
+			[
+				"categ",
+				"category_order"
+			],
+			[
+				"list",
+				"listingObj2"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"pac",
+				"package"
+			],
+			[
+				"daa",
+				"data_parsing"
+			],
+			[
+				"data",
+				"data_parsing"
+			],
+			[
+				"key",
+				"keywordsArr"
+			],
+			[
+				"acti",
+				"activitiesArray"
+			],
+			[
+				"activitie",
+				"activitiesArray"
+			],
+			[
+				"bro",
+				"broad_category"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"Browse",
+				"BrowseNodes_info"
+			],
+			[
+				"ca",
+				"catalogProduct"
+			],
+			[
+				"brand",
+				"brandName"
+			],
+			[
+				"act",
+				"activity_broad_categories"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"gift",
+				"giftPageArr"
+			],
+			[
+				"produ",
+				"productsResponse"
+			],
+			[
+				"glo",
+				"global_merge_vars"
+			],
+			[
+				"m",
+				"merge_Var"
+			],
+			[
+				"templ",
+				"template_content"
+			],
+			[
+				"set",
+				"setProducts"
+			],
+			[
+				"productIds",
+				"productIdsArr"
+			],
+			[
+				"arra",
+				"array_merge"
+			],
+			[
+				"jso",
+				"jsonResponse"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"relation",
+				"relationshipType"
+			],
+			[
+				"Item",
+				"ItemLookups"
+			],
+			[
+				"activi",
+				"activities"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"auth",
+				"auth_package"
+			],
+			[
+				"sess",
+				"sessio_name"
+			],
+			[
+				"bir",
+				"birthday_value"
+			],
+			[
+				"strc",
+				"strcmp"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"respo",
+				"responseProduct"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"catalog",
+				"catalogDomain"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"al",
+				"all"
+			],
+			[
+				"all",
+				"allProducts"
+			],
+			[
+				"res",
+				"responseProducts"
+			],
+			[
+				"respon",
+				"responseProducts"
+			],
+			[
+				"re",
+				"responseProducts"
+			],
+			[
+				"response",
+				"responseIndex"
+			],
+			[
+				"category",
+				"category_id"
+			],
+			[
+				"ite",
+				"itemLookup"
+			],
+			[
+				"params",
+				"params_in_url"
+			],
+			[
+				"touche",
+				"touched_points"
+			],
+			[
+				"group",
+				"group_qty"
+			],
+			[
+				"down",
+				"down_clues"
+			],
+			[
+				"across",
+				"across_clues"
+			],
+			[
+				"current",
+				"currentUser"
+			],
+			[
+				"setStats",
+				"setStatsToZero"
+			],
+			[
+				"background",
+				"background-color: "
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"text",
+				"text-decoration: "
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"od_text",
+				"od_text_false"
+			],
+			[
+				"od_styl",
+				"od_style_true"
+			],
+			[
+				"btn",
+				"btn-small"
+			],
+			[
+				"a",
+				"rgba()"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"pnp",
+				"pnpreg_params"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+	"command_palette":
+	{
+		"height": 325.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"datetime",
+				"Jekyll: Insert current datetime"
+			],
+			[
+				"dateti",
+				"Jekyll: Insert current datetime"
+			],
+			[
+				"4",
+				"Set Syntax: camlp4"
+			],
+			[
+				"curre",
+				"Jekyll: Insert current date"
+			],
+			[
+				"datei",
+				"Emmet: Update Image Size"
+			],
+			[
+				"cur",
+				"Jekyll: Insert current date"
+			],
+			[
+				"datet",
+				"Jekyll: Insert current datetime"
+			],
+			[
+				"curr",
+				"Jekyll: Insert current date"
+			],
+			[
+				"current",
+				"Jekyll: Insert current date"
+			],
+			[
+				"datti",
+				"Jekyll: Insert current datetime"
+			],
+			[
+				"dattim",
+				"Jekyll: Insert current datetime"
+			],
+			[
+				"curren",
+				"Jekyll: Insert current date"
+			],
+			[
+				"jekyll",
+				"Jekyll: Insert current datetime"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previe",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"preeview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/in-memory-data.service.ts",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/hero.service.ts",
+		"/Users/francocedillo/files/projects/angular2/ngqs/index.html",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/app.module.ts",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/app.component.ts",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/heroes.component.html",
+		"/Users/francocedillo/files/projects/angular2/ngqs/node_modules/@angular/common/testing/index.d.ts",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/dashboard.component.ts",
+		"/Users/francocedillo/files/projects/angular2/ngqs/tsconfig.json",
+		"/Users/francocedillo/files/projects/angular2/ngqs/webpack.config.js",
+		"/Users/francocedillo/files/projects/angular2/ngqs/package.json",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/heroes.component.ts",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/app.component.css",
+		"/Users/francocedillo/files/projects/angular2/ngqs/styles.css",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/hero-detail.component.ts",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/dashboard.component.html",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/hero-detail.component.css",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/dashboard.component.css",
+		"/Users/francocedillo/files/projects/angular2/ngqs/heroes.component.css",
+		"/Users/francocedillo/files/projects/angular2/ngqs/heroes.component.html",
+		"/Users/francocedillo/files/projects/angular2/ngqs/dashboard.component.html",
+		"/Users/francocedillo/files/projects/angular2/ngqs/hero-detail.component.html",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/app.routing.ts",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/hero.ts",
+		"/Users/francocedillo/files/projects/angular2/ngqs/npm-debug.log",
+		"/Users/francocedillo/files/projects/angular2/ngqs/app/mock-heroes.ts",
+		"/Users/francocedillo/files/projects/javascript/angular2/ngqs/app/app.module.ts",
+		"/Users/francocedillo/files/projects/javascript/angular2/ngqs/styles.css",
+		"/Users/francocedillo/files/projects/javascript/angular2/ngqs/index.html",
+		"/Users/francocedillo/files/projects/javascript/angular2/ngqs/app/main.ts",
+		"/Users/francocedillo/files/projects/javascript/angular2/ngqs/systemjs.config.js",
+		"/Users/francocedillo/files/projects/javascript/angular2/ngqs/webpack.config.js",
+		"/Users/francocedillo/files/projects/javascript/angular2/ngqs/app/app.component.ts",
+		"/Users/francocedillo/files/projects/javascript/angular2/ngqs/typings.json",
+		"/Users/francocedillo/files/projects/javascript/angular2/ngqs/tsconfig.json",
+		"/Users/francocedillo/files/projects/javascript/angular2/ngqs/package.json",
+		"/Users/francocedillo/files/projects/javascript/angular2/ngqs/script.rb",
+		"/Users/francocedillo/files/projects/javascript/angular2/ngqs/cmd.sh",
+		"/Users/francocedillo/files/projects/redux/redux/examples/counter-vanilla/index.html",
+		"/etc/apache2/httpd.conf",
+		"/etc/php.ini",
+		"/Users/francocedillo/files/htdocs/wayna.local/public_html/phpinfo.php",
+		"/et/chosts",
+		"/Users/francocedillo/files/htlogs/wayna.local.error.log",
+		"/etc/apache2/extra/httpd-vhosts.conf",
+		"/etc/hosts",
+		"/etc/apache/extra/httpd-vhosts.conf",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/francocedillo/.bash_profile",
+		"/usr/local/etc/my.cnf",
+		"/private/etc/php.ini.default",
+		"/Users/francocedillo/files/projects/ddah/themes/custom/ddah/css/layout.css",
+		"/Users/francocedillo/files/projects/ddah/themes/custom/ddah/sass/layout.sass",
+		"/Users/francocedillo/files/projects/ddah/themes/custom/ddah/gulpfile.js",
+		"/Users/francocedillo/files/projects/ddah/themes/custom/ddah/ddah.libraries.yml",
+		"/Users/francocedillo/files/projects/ddah/themes/custom/ddah/css/components/thematic-areas-tags.css",
+		"/Users/francocedillo/files/projects/ddah/themes/custom/ddah/ddah.info.yml",
+		"/Users/francocedillo/files/projects/react/mplyees/.gitignore",
+		"/Users/francocedillo/files/projects/react/mplyees/README.md",
+		"/Users/francocedillo/files/projects/react/mplyees/src/components/empleado-avatar/index.jsx",
+		"/Users/francocedillo/files/projects/react/mplyees/package.json",
+		"/Users/francocedillo/files/projects/react/mplyees/src/components/empleado-row/index.jsx",
+		"/Users/francocedillo/files/projects/react/mplyees/src/components/empleado-list/index.jsx",
+		"/Users/francocedillo/files/projects/react/mplyees/src/index.jsx",
+		"/Users/francocedillo/files/projects/react/mplyees/build/index.html",
+		"/Users/francocedillo/files/projects/react/mplyees/gulpfile.js",
+		"/Users/francocedillo/files/projects/docs/Proposals/Proposals/aquaponics.md",
+		"/Users/francocedillo/files/projects/docs/Proposals/.gitignore",
+		"/Users/francocedillo/files/orangepi/SwiftyBuzz/Sources/SwiftyBuzz/SwiftyGPIO.swift",
+		"/Users/francocedillo/files/orangepi/SwiftyBuzz/README.md",
+		"/Users/francocedillo/files/orangepi/SwiftyBuzz/Package.swift",
+		"/Users/francocedillo/files/orangepi/SwiftyBuzz/Sources/RGBSemaphore/main.swift",
+		"/Users/francocedillo/files/orangepi/RGBSemaphore/README.md",
+		"/Users/francocedillo/files/orangepi/RGBSemaphore/Sources/RGBSemaphore/SwiftyGPIO.swift",
+		"/Users/francocedillo/files/orangepi/RGBSemaphore/Package.swift",
+		"/Users/francocedillo/files/orangepi/RGBSemaphore/Sources/RGBSemaphore/main.swift",
+		"/Users/francocedillo/files/orangepi/RGBSemaphore/Packages/SwiftFoundation-2.1.1/Sources/SwiftFoundation/JSONParse.swift",
+		"/Users/francocedillo/files/orangepi/RGBSemaphore/.gitignore",
+		"/Users/francocedillo/files/orangepi/wink/.ls",
+		"/Users/francocedillo/files/projects/ios/DemoPeripheral/README.md",
+		"/Users/francocedillo/files/projects/swift/sushi/sushi.swift",
+		"/Users/francocedillo/files/projects/ios/thoughtrecap/Cartfile",
+		"/Users/francocedillo/files/htdocs/techoperu/gulpfile.js",
+		"/Users/francocedillo/files/htdocs/techoperu/source/coffeescript/init.coffee",
+		"/Users/francocedillo/files/htdocs/techoperu/dist/js/init.js",
+		"/Users/francocedillo/files/htdocs/techo/app/sass/components/combos.scss",
+		"/Users/francocedillo/files/htdocs/techo/app/sass/layout.scss",
+		"/Users/francocedillo/files/htdocs/techo/gulpfile.js",
+		"/Users/francocedillo/Downloads/peru/sass/components/combos.scss",
+		"/Users/francocedillo/files/htdocs/techo/app/js/init.js",
+		"/Users/francocedillo/files/htdocs/techo/app/css/style.css",
+		"/Users/francocedillo/files/htdocs/techo/app/sass/style.scss",
+		"/Users/francocedillo/files/htdocs/www.199insights.dev/wp-admin/.htaccess",
+		"/Users/francocedillo/files/htdocs/giftmethod.dev/.htaccess",
+		"/Users/francocedillo/files/htdocs/staging.199insights.dev/.htaccess",
+		"/System/Library/LaunchDaemons/org.apache.httpd.plist",
+		"/Users/francocedillo/files/htlogs/staging.199insights.dev-error.log",
+		"/Users/francocedillo/files/htdocs/staging.199insights.dev/wp-admin/.htaccess",
+		"/Users/francocedillo/files/htdocs/staging.199insights.com/wp-content/themes/Divi/functions.php",
+		"/Users/francocedillo/files/htdocs/dreamhost/gmstaging/staging.giftmasters.com/wp-content/themes/Divi/index.php",
+		"/Users/francocedillo/files/htdocs/dreamhost/gmstaging/staging.giftmasters.com/wp-content/themes/Divi-child/category.php",
+		"/Users/francocedillo/files/htlogs/199i/199insights.error.log",
+		"/Users/francocedillo/files/htlogs/199i/error.log",
+		"/Users/francocedillo/files/htlogs/199i/199insights-staging.error.log",
+		"/Users/francocedillo/files/dumps/giftmasters.com/httpd/staminus.ips.data",
+		"/Users/francocedillo/files/dumps/giftmasters.com/httpd/maxcdn.ips.data",
+		"/Users/francocedillo/files/dumps/giftmasters.com/httpd/incapsula.ips.data",
+		"/Users/francocedillo/files/dumps/giftmasters.com/httpd/fastly.ips.data",
+		"/Users/francocedillo/files/dumps/giftmasters.com/httpd/cachefly.ips.data",
+		"/Users/francocedillo/Downloads/innovacion-desarrollo-humano/innovacion-desarrollo-humano.txt",
+		"/Users/francocedillo/files/projects/ios/thoughtrecap/tboomerang/.swiftlint.yml",
+		"/Users/francocedillo/files/projects/ios/thoughtrecap/ThoughtCellTableViewCell.swift",
+		"/Users/francocedillo/files/projects/ios/thoughtrecap/i.",
+		"/Users/francocedillo/files/projects/cordova/tada/app/www/templates/menu.html",
+		"/Users/francocedillo/files/projects/cordova/tada/app/www/css/style.css",
+		"/Users/francocedillo/Dropbox/hC.Tools/Trabajos/boomerang/legales/datos.txt",
+		"/Users/francocedillo/files/projects/cordova/tada/app/www/js/controllers.js",
+		"/Users/francocedillo/files/projects/cordova/tada/app/config.xml",
+		"/Users/francocedillo/files/projects/cordova/tada.txt",
+		"/Users/francocedillo/files/projects/cordova/tada",
+		"/Users/francocedillo/files/projects/cordova/tada/app/plugins/fetch.json",
+		"/Users/francocedillo/Downloads/music/sup/sitas/compas/pruebas/3 pamela/mp4/list.txt",
+		"/Users/francocedillo/Downloads/music/sup/sitas/compas/pruebas/3 Pamela (Colombia)/video/mp4/list.txt",
+		"/Users/francocedillo/Downloads/music/sup/sitas/compas/pruebas/4 Violeta Martina (Argentina)/video/jointhese/list.txt",
+		"/Users/francocedillo/Downloads/music/sup/sitas/compas/pruebas/4 Violeta Martina (Argentina)/convert.py",
+		"/Users/francocedillo/files/htdocs/dreamhost/gmprod/giftmethod.com/.htaccess",
+		"/Users/francocedillo/Downloads/tboomerangcaps/uiconfigurator",
+		"/Users/francocedillo/files/htdocs/giftmethod.dev/wp-admin/includes/class-wp-press-this.php"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"app/*.ts",
+			"*.ts",
+			"",
+			"/Users/francocedillo/files/htdocs/giftmethod.dev/wp-content/themes/Divi-child",
+			"",
+			"-manifest.json",
+			"",
+			"app",
+			"",
+			"*.php",
+			"wp-content/themes",
+			"",
+			"app/",
+			"",
+			"-*.php,-*.json,-*.lock,-*.xml,-.gitignore,-vendor/*",
+			"-*.php,-*.json,-*.lock,-.gitignore,-vendor/*",
+			"-*.php,-*.json,-*.lock,-.gitignore,-./vendor",
+			"-*.php,-*.json,-*.lock,-.gitignore,-/vendor",
+			"-*.php,-*.json,-*.lock,-.gitignore",
+			"-*.php,-*.json",
+			"-*.php",
+			"",
+			"html",
+			"",
+			"/Users/francocedillo/files/htdocs/giftmasters.dev/gmdev",
+			"sites/all/themes/dtools/enmano",
+			"sites/all/themes/dtools/alatela",
+			"",
+			"-jquery.js,-doc/*",
+			"-jquery.js,-app/doc/*",
+			"-jquery.js,-/doc/*",
+			"-jquery.js,-doc/*",
+			"-jquery.js,-doc",
+			"-jquery.js",
+			"jquery.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mock",
+			"selectedHero",
+			"php",
+			"mcrypt",
+			"mycript",
+			"mycr",
+			"rows",
+			"] ",
+			"required",
+			"php",
+			"cache",
+			"opcache",
+			"port",
+			"Virtual",
+			"virtual",
+			"vhot",
+			"et_pb_postinfo_meta",
+			"et_full_width_page",
+			"et_single_settings_meta_box",
+			"swiftc",
+			"FAIcon.swift",
+			"inviteFriends",
+			"invite",
+			"facebook",
+			"facebok",
+			"max-height:70%",
+			"max-height:85%;",
+			"max-height:85%",
+			"invite",
+			"facebook",
+			"invite",
+			"angular.module",
+			"invite",
+			"googleapis",
+			"Montserrat",
+			"Raleway",
+			"title",
+			"$white",
+			"font_path",
+			"fonts_path",
+			"body_height",
+			");\n",
+			"__parsingDataActivity",
+			"link_title",
+			"change",
+			"button",
+			"url",
+			"add?url=",
+			"scraper",
+			"base_ur",
+			"base_url",
+			"gmapi",
+			"DEBUG",
+			"meta_description",
+			"tile_alt",
+			"  \n",
+			"broad-category.json",
+			"parseBroadCategories",
+			"broad-category.json",
+			"__parsingDataBroadCategoryDetail",
+			"style",
+			"etsy",
+			"file.json",
+			"notes",
+			"dd(",
+			"__parsingDataActivity",
+			"intro_paragraph",
+			"meta_description",
+			"page_title",
+			"focus_keyword",
+			"__parsingDataCategories",
+			"/categories_by_activity.json",
+			"this",
+			"__parsingDataDetailActivity",
+			"h1",
+			"help_text",
+			"$gmDev = new ",
+			"third_slash_start",
+			"update",
+			"updateProduct",
+			"http://",
+			"createCategory",
+			"getCategoriesByActivity",
+			"getCategoriesByActivityId",
+			"getActivityById",
+			"getCategoriesByActivityId",
+			"getCategoriesByActivity",
+			"removeProduct",
+			"patch",
+			"console",
+			"activity-by-id",
+			"$heading",
+			"ET_Builder_Module",
+			"Submit a Comment",
+			"reponse",
+			"getProductByASIN",
+			"byASIN",
+			"postinfo_meta",
+			"$postinfo_meta .= '<span class=\"published\">",
+			"$postinfo_meta",
+			"get_the_date",
+			"Last Updated on",
+			"Read more",
+			"popup",
+			"jquery",
+			"*/\n",
+			"cache",
+			"Older Entries",
+			"ItemLookup",
+			"more-link",
+			"<!-- .et_pb_post -->",
+			"Method",
+			"et_pb_widget",
+			"category.php",
+			"X-Varnish",
+			"x-varnish",
+			"hits",
+			"hit",
+			"MISS",
+			".ajax",
+			"ajax",
+			"etsy_array",
+			"JQquerydocument",
+			"script",
+			"scrip",
+			"script",
+			"80",
+			"enterPasswordDialogsubmitButton"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#5fb336",
+			"#b0bdc9",
+			"#f0f0f0",
+			"f0f0f0",
+			"enmano",
+			"alatela",
+			"",
+			", ",
+			",",
+			"pnplb",
+			"week",
+			".",
+			"vine"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 354.0
+	},
+	"output.markdown":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app.com",
+				"app/heroes.component.html"
+			],
+			[
+				".html",
+				"index.html"
+			],
+			[
+				"module.ts",
+				"app/app.module.ts"
+			],
+			[
+				"",
+				"categories-by-activity.php"
+			],
+			[
+				"brand",
+				"Models/Brand_X_Category.php"
+			],
+			[
+				"produ",
+				"Models/Product.php"
+			],
+			[
+				"act",
+				"Models/Activity.php"
+			],
+			[
+				"categ",
+				"Models/Category.php"
+			],
+			[
+				"route",
+				"Http/routes.php"
+			],
+			[
+				"cate",
+				"Models/Category.php"
+			],
+			[
+				"rout",
+				"Http/routes.php"
+			],
+			[
+				"yyy",
+				"YYYY-MM-DD-post-template.md"
+			],
+			[
+				"mist",
+				"2015-01-21-unamuno-misterio-inicial.md"
+			],
+			[
+				"unam",
+				"_posts/2015-01-21-unamuno-fracaso-vida.md"
+			],
+			[
+				"contro",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"od",
+				"doc/OdsController.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true
+}

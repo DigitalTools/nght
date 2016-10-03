@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/francocedillo/files/projects/angular2/ngqs",
+      "folder_exclude_patterns": [ "node_modules", "typings"],
+      "file_exclude_patterns": [ "*.js", "*.js.map" ]
+		}
+	]
+}
